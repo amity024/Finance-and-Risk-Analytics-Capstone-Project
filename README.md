@@ -1,6 +1,6 @@
 # Finance-and-Risk-Analytics-Capstone-Project
 
-##Business Case
+## Business Case
 
 In the recent past, the industry of wealth management has seen a lot of growth. Every individual or business actively searches for opportunities to get the maximum returns. However, in most of the cases, they either lack the skills to identify the right investment opportunity, or there is a shortage of time for finding these opportunities. Hence, this gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission - Portfolio managers.
 
@@ -19,7 +19,8 @@ You must use the metrics and the visualisations to compare the performance of th
 The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio.
 After the selection of stocks, the portfolio must be validated using the active investment strategy to estimate the prices in future. You must check if the portfolio has the potential to fulfil the financial goals set by the investor.
 
-##Data Description
+## Data Description:
+
   You are provided with the following information for 24 stocks of leading companies listed in New York Stock Exchange(NYSE):
   Date
   Open price: Price of stock at the start of the day
