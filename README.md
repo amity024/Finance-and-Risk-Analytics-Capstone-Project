@@ -21,20 +21,20 @@ Your task is to provide consultation to two different investors, Mr Patrick Jyen
 
 ## Data Description:
  - You are provided with the following information for 24 stocks of leading companies listed in New York Stock Exchange(NYSE):
- 1.Date
- 2.Open price: Price of stock at the start of the day
- 3.Close price: Price of stock at the end of the day
- 4.High price: Highest price reached by the stock on that day
- 5.Low price: Lowest price reached by the stock on that day
- 6.Adjusted close price: Stock price adjusted to include the annual returns (dividends) that the company offers to the shareholders
- 7.Volume traded: Number of stocks traded on the day
- 8.The information for every stock ranges from 1st October 2010 to 30th September 2020.
+  1. Date
+  2. Open price: Price of stock at the start of the day
+  3. Close price: Price of stock at the end of the day
+  4. High price: Highest price reached by the stock on that day
+  5. Low price: Lowest price reached by the stock on that day
+  6. Adjusted close price: Stock price adjusted to include the annual returns (dividends) that the company offers to the shareholders
+  7. Volume traded: Number of stocks traded on the day
+  8. The information for every stock ranges from 1st October 2010 to 30th September 2020.
 
  - The stocks belong to different domains:
-1.Technology/IT
-2.Travel/Aviation/Hospitality
-3.Banking/Financial Services and Insurance
-4.Pharmaceuticals/Healthcare/Life Sciences
+ 1. Technology/IT
+ 2. Travel/Aviation/Hospitality
+ 3. Banking/Financial Services and Insurance
+ 4. Pharmaceuticals/Healthcare/Life Sciences
 
 To help you with the market benchmark, you are given the S&P 500 index prices for the same period.
   
