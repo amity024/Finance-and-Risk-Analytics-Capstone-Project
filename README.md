@@ -14,10 +14,10 @@ Your task is to provide consultation to two different investors, Mr Patrick Jyen
 
  - Following points summarise the expected tasks in the assignment:
 
-1.You must use the elements of technical analysis to understand the trend of the underlying stocks. The metrics associated with risk and returns must help you realise whether the security meets the criteria of your investor’s financial goals.
-2.You must use the metrics and the visualisations to compare the performance of the available securities against each other, and also against the market index, S&P500.
-3.The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio.
-4.After the selection of stocks, the portfolio must be validated using the active investment strategy to estimate the prices in future. You must check if the portfolio has the potential to fulfil the financial goals set by the investor.
+1. You must use the elements of technical analysis to understand the trend of the underlying stocks. The metrics associated with risk and returns must help you realise whether the security meets the criteria of your investor’s financial goals.
+2. You must use the metrics and the visualisations to compare the performance of the available securities against each other, and also against the market index, S&P500.
+3. The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio.
+4. After the selection of stocks, the portfolio must be validated using the active investment strategy to estimate the prices in future. You must check if the portfolio has the potential to fulfil the financial goals set by the investor.
 
 ## Data Description:
  - You are provided with the following information for 24 stocks of leading companies listed in New York Stock Exchange(NYSE):
